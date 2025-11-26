@@ -25,7 +25,7 @@ To install the package, simply refer to the GitHub repository:
 
 ```julia
 using Pkg
-Pkg.add(url="https://github.com/qdercon/ScreamTask.git")
+Pkg.add(url="https://github.com/qdercon/ScreamTask.jl.git")
 ```
 
 A complete example usage script is provided in [`examples/scream_task.jl`](examples/scream_task.jl). The rough outline of how the package is intended to be used is as follows.
