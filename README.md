@@ -119,4 +119,4 @@ At least when using ```:PRIMA```, parameter recovery is highly dependent on the 
 
 ## References
 
-1. Berwian, I., Ren, Y., Pisupti, S., Ding, J., Moon, S., Chiu, J., Chandrasekhar, D., Niv, Y. (2025). Selective maintenance of aversive memories as a mechanism of spontaneous recovery of fear. Preprint on *PsyArXiv*. https://doi.org/10.31234/osf.io/2kdtf_v1
+1. Berwian, I., Ren, Y., Pisupati, S., Ding, J., Moon, S., Chiu, J., Chandrasekhar, D., Niv, Y. (2025). Selective maintenance of aversive memories as a mechanism of spontaneous recovery of fear. Preprint on *PsyArXiv*. https://doi.org/10.31234/osf.io/2kdtf_v1
