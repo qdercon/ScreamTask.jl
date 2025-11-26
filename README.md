@@ -115,7 +115,7 @@ At least when using ```:PRIMA```, parameter recovery is highly dependent on the 
 ## Next steps
 
 - **Full benchmarking of different optimizers**: ```:PRIMA``` is definitely quickest, but ```:BBO``` and ```:NOMAD``` may be more robust in some cases.
-- **Comparison to BADS**: In the original paper, Berwian *et al.* (2025) used the [BADS](https://github.com/acerbilab/bads) optimizer, which is not currently implemented in Julia (though does have a Python interface). This optimizer is fairly slow and computationally expensive (comparable to ```:NOMAD```), but shows robust parameter recovery in the original work. As such, it would be useful to compare the performance
+- **Comparison to BADS**: In the original paper, Berwian *et al.* (2025) used the [BADS](https://github.com/acerbilab/bads) optimizer, which is not currently implemented in Julia (though does have a Python interface). This optimizer is fairly slow and computationally expensive (comparable to ```:NOMAD```), but shows robust parameter recovery in the original work. As such, it would be useful to compare its performance to these other optimizers.
 
 ## References
 
